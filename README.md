@@ -10,5 +10,4 @@ TARJETA CRÉDITO : https://docs.google.com/spreadsheets/d/1b9XfAsNG1a8wW_yz3DGu0
 
 Proyecto funcional : 
 
-https://nataliagamezbarea.com/proyectos/tarjeta-credito-sheets/2-registro.html
-
+https://nataliagamezbarea.com/proyectos/tarjeta-credito-sheets/1-login.html
