@@ -8,6 +8,6 @@ LOGIN: https://docs.google.com/spreadsheets/d/1SxB710239SBRKTRFBt39PoAvM6qchFNFj
 
 TARJETA CRÉDITO : https://docs.google.com/spreadsheets/d/1b9XfAsNG1a8wW_yz3DGu04GlXiXQwWe7Z09RVJccrHo/edit#gid=0
 
-Proyecto funcional : 
+Proyecto funcional :
 
 https://nataliagamezbarea.com/proyectos/tarjeta-credito-sheets/1-login.html
